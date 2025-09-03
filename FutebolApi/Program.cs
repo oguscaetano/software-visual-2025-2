@@ -10,7 +10,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 var app = builder.Build();
 
-app.MapGet("/", async (AppDbContext db) =>
+app.MapGet("/times", async (AppDbContext db) =>
     await db.Times.ToListAsync()
 );
 
