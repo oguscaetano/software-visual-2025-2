@@ -1,4 +1,4 @@
-# 📚 Aula: Criando uma API Minimal com EF Core + SQLite
+# 📚 Aula: Criando uma API Minimal com EF Core + SQLite (.NET 7.0.410)
 
 ## 1. Criando o projeto do zero
 
@@ -18,20 +18,11 @@ Isso cria um projeto **API Minimal**.
 
 Vamos instalar o **Entity Framework Core** com provedor para SQLite:
 
-1. Ctrl + Shift + P
-2. NuGet: Add NuGet Package
-3. Microsoft.EntityFrameworkCore
-4. Version 7.0.0
-
-Faça o mesmo procedimento para intalar o Sqlite.
-
-Também é possível fazer esse processo via CLI:
-
 ```bash
-dotnet add package Microsoft.EntityFrameworkCore
-dotnet add package Microsoft.EntityFrameworkCore.Sqlite
-dotnet add package Microsoft.EntityFrameworkCore.Tools
-```
+dotnet add package Microsoft.EntityFrameworkCore --version 7.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 7.0.0
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite --version 7.0.0
+``` 
 
 ---
 
@@ -133,7 +124,23 @@ INSERT INTO Times (Nome, Cidade, TitulosBrasileiros, TitulosMundiais) VALUES
 ('Santos', 'Santos', 8, 2);
 ```
 
-Depois rode o comando o SQLite: Run Query da extensão SQLite.
+Depois rode o comando:
+
+```bash
+sqlite3 futebol.db < dados.sql
+```
+
+Para confirmar se os dados foram criados, execute:
+
+```bash
+SELECT * FROM Times;
+```
+
+Para sair do SQLite:
+
+```bash
+.quit
+```
 
 ---
 
