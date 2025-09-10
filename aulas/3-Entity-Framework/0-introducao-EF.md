@@ -90,6 +90,14 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 ## 6. Criando o banco de dados (SQLite)
 
+Para resolver possíveis erros com o EF:
+
+```bash
+dotnet new tool-manifest
+dotnet tool install dotnet-ef --version 7.0.0
+dotnet tool restore
+```
+
 ### 6.1 Criar a migration
 
 ```bash
@@ -124,23 +132,7 @@ INSERT INTO Times (Nome, Cidade, TitulosBrasileiros, TitulosMundiais) VALUES
 ('Santos', 'Santos', 8, 2);
 ```
 
-Depois rode o comando:
-
-```bash
-sqlite3 futebol.db < dados.sql
-```
-
-Para confirmar se os dados foram criados, execute:
-
-```bash
-SELECT * FROM Times;
-```
-
-Para sair do SQLite:
-
-```bash
-.quit
-```
+Depois adicione os dados via extensão SQLite com o comando `SQLite: Quick Query`.
 
 ---
 

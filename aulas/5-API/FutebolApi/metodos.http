@@ -1,0 +1,33 @@
+GET http://localhost:5298/times
+
+###
+
+GET http://localhost:5298/times/2
+
+###
+
+POST http://localhost:5298/times
+content-type: application/json
+
+{
+  "nome": "Palmeiras",
+  "cidade": "São Paulo",
+  "titulosBrasileiros": 12,
+  "titulosMundiais": 0
+}
+
+###
+
+PUT http://localhost:5298/times/3
+content-type: application/json
+
+{
+  "nome": "Corinthians",
+  "cidade": "São Paulo",
+  "titulosBrasileiros": 28,
+  "titulosMundiais": 999
+}
+
+###
+
+DELETE http://localhost:5298/times/2
