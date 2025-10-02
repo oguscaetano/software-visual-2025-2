@@ -20,6 +20,21 @@ Desenvolvimento de projetos computacionais de backend com uso de C#, .Net Core e
 
 ID | Data | Avaliação | Peso
 ---|------|-----------|-----
-A2 | TBD | TBD | **5 pontos**
-A1 | TBD | TBD | **5 pontos**
-SUB | TBD | TBD | Substitutiva
+A2 | 29/10 | Prova | **5 pontos**
+A1 | 05/11 e 19/11 | Projeto | **5 pontos**
+SUB | 03/12 | Prova | Substitutiva
+
+## Projeto
+
+- C# .NET
+- Entity Framework
+- SQLite
+- CRUD (GET / POST / PUT / DELETE)
+- HTML, CSS e JavaScript (react opcional)
+- (Precisa ter front end, mas não sou artista, então não precisa ser bonito, apenas funcional)
+- Submissão do código no blackboard (repositorio do github)
+
+> Grupos de 3 seres humanos
+15 grupos
+
+> Apresentação = defesa de código
