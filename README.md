@@ -11,6 +11,8 @@
 [7 - Método PUT](https://youtu.be/gm99pq41wzc)  
 [8 - Método DELETE](https://youtu.be/j--91bbW5QU)  
 [9 - Swagger](https://youtu.be/EgnmGWFcyyQ)  
+[10 - Primeiros passos no Front-end](https://youtu.be/TCN0tpYRGqw)  
+[11 - API com Try Catch](https://youtu.be/kQutggkHObM)  
  
 ## 📕 Ementa
 
