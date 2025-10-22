@@ -3,4 +3,4 @@
 Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 ---|------|-----------|-----
 Xablau | Yuri Alberto | Carlitos Tevez | Marcelinho Carioca
-Xablau | Nycolas Augusto | Wendel do Prado | Wellington Piska
+Bovinos - Palestra Italiana | Nycolas Augusto | Wendel do Prado | Wellington Piska
