@@ -13,6 +13,8 @@
 [9 - Swagger](https://youtu.be/EgnmGWFcyyQ)  
 [10 - Primeiros passos no Front-end](https://youtu.be/TCN0tpYRGqw)  
 [11 - API com Try Catch](https://youtu.be/kQutggkHObM)  
+[12 - Introdução ao React](https://youtu.be/cDy69sIxV9g)  
+[13 - Componentes do React](https://youtu.be/DLIUCLzKr3I)  
  
 ## 📕 Ementa
 
