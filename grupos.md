@@ -13,3 +13,4 @@ BeatAPI | Bruno Viotto | Gabriela Pedroso | Michelle Bornes
 EstanteAPI | João Pinheiro | Gabriel Riccetto | Vittor Dallacqua 
 Carros | Daniel | Emiliano | Vinícius Leal
 Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
+Pantanal Fm | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
