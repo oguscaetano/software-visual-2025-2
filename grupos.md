@@ -4,4 +4,4 @@ Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 ---|------|-----------|-----
 Xablau | Yuri Alberto | Carlitos Tevez | Marcelinho Carioca
 
-Os Marcelos | Marcelo Sant'anna | Mateus Corsato | João Marinho
+Los Marcelos | Marcelo Sant'anna | Mateus Corsato | João Marinho
