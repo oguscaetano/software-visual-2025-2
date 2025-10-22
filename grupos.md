@@ -12,3 +12,4 @@ Xtralrock | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
 BeatAPI | Bruno Viotto | Gabriela Pedroso | Michelle Bornes
 EstanteAPI | João Pinheiro | Gabriel Riccetto | Vittor Dallacqua 
 Carros | Daniel | Emiliano | Vinícius Leal
+Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
