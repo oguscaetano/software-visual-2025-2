@@ -9,4 +9,8 @@ Aline Matoso | Gabriel de Lima | Heros Dinão | Vitor Campos
 fiel | Pedro H P Geraldo | Weverton Vieira Ribeiro | Gabriel Arnold
 Bovinos - Palestra Italiana | Nycolas Augusto | Wendel do Prado | Wellington Piska
 Xtralrock | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
+BeatAPI | Bruno Viotto | Gabriela Pedroso | Michelle Bornes
+EstanteAPI | João Pinheiro | Gabriel Riccetto | Vittor Dallacqua 
+Carros | Daniel | Emiliano | Vinícius Leal
+Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
 Pantanal Fm | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
