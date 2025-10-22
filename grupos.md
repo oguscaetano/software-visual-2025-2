@@ -14,3 +14,4 @@ ID | Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 10 | Carros | Daniel | Emiliano | Vinícius Leal
 11 | Lambda_no_C# | Renan Kusdra | João Tavares | Eduardo Moraes
 12 | Pantanal Fm | Lanna dos Anjos | Luisa Koerich | Bruna Chapelin
+13 | LeetCode | João César Timóteo |João Gabriel Mota | Vitor Campos
