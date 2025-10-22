@@ -2,5 +2,5 @@
 
 Nome do Projeto | Aluno 1 | Aluno 2 | Aluno 3
 ---|------|-----------|-----
-Xablau | Yuri Alberto | Carlitos Tevez | Marcelinho Carioca
+localhost | Nicolas Matheus Faustino | Eduardo Luiz Lima C | Joao Emanuel Vainer de Paula
 MedicamentosAPI | Edivan Alan | Mateus Dalagnol | Leonardo Reis 
