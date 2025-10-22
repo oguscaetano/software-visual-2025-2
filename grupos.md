@@ -9,3 +9,4 @@ Aline Matoso | Gabriel de Lima | Heros Dinão | Vitor Campos
 fiel | Pedro H P Geraldo | Weverton Vieira Ribeiro | Gabriel Arnold
 Bovinos - Palestra Italiana | Nycolas Augusto | Wendel do Prado | Wellington Piska
 Xtralrock | Gabriel Valenga | Agustin Cancino | Rafael Moura Machado
+BeatAPI | Bruno Viotto | Gabriela Pedroso | Michelle Bornes
